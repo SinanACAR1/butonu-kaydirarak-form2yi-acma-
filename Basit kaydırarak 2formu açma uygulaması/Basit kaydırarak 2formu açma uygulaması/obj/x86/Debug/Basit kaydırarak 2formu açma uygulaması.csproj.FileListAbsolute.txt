@@ -1,0 +1,9 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\bin\Debug\Basit kaydırarak 2formu açma uygulaması.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\bin\Debug\Basit kaydırarak 2formu açma uygulaması.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\obj\x86\Debug\Basit kaydırarak 2formu açma uygulaması.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\obj\x86\Debug\Basit kaydırarak 2formu açma uygulaması.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\obj\x86\Debug\Basit kaydırarak 2formu açma uygulaması.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Basit kaydırarak 2formu açma uygulaması\Basit kaydırarak 2formu açma uygulaması\obj\x86\Debug\Basit kaydırarak 2formu açma uygulaması.csprojResolveAssemblyReference.cache
